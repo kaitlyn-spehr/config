@@ -1,4 +1,4 @@
-example: config value new new new new again
+example: config value
 message: config message
 management:
   endpoints:
