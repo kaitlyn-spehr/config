@@ -1,4 +1,4 @@
-example: config value
+example: config value refresh
 message: config message
 management:
   endpoints:
