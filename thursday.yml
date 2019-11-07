@@ -1,2 +1,7 @@
 example: config value new
 message: config message
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
