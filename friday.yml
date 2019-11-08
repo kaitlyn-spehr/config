@@ -1,4 +1,4 @@
-example: config value refresh
+password: $2a$10$M9VejKaZpaMKObpxgrh0nOV11KE34IfUvq8SdnSEcwy3cbLC8PgaW
 message: config message
 management:
   endpoints:
